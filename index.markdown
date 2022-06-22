@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Cheers mate
+## Cheers mate
 
 lorem ipsum
