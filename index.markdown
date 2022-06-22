@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Cheers mate
+
+lorem ipsum
